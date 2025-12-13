@@ -15,7 +15,7 @@
 ### 💫 About Me
 ```javascript
 const atharva = {
-    age: 19,
+    age: 20,
     location: "India 🇮🇳",
     title: "Full-Stack Java Dev & Flutter Enthusiast",
     passion: "Programming since forever",
@@ -234,7 +234,7 @@ Turning complex challenges into elegant solutions
 
 <div align="center">
 
-*⭐️ From [Atharva](https://github.com/atharvajagtap112) - 19 & coding the future* 
+*⭐️ From [Atharva](https://github.com/atharvajagtap112) - 20 & coding the future* 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284126-96fb2767-c7e8-4b28-87c8-6a4b5c4e7b6b.gif" width="300">
 
