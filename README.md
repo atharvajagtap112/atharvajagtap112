@@ -85,7 +85,33 @@ Turning complex challenges into elegant solutions
 
 <div align="center">
 
-## 📊 GitHub Wrapped 2024
+## 🌍 Open Source Contributions
+
+<a href="https://github.com/kestra-io/plugin-alibaba/pulls?q=is%3Apr+author%3Aatharvajagtap112+is%3Amerged">
+  <img src="https://img.shields.io/badge/Kestra-Contributor-8405FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://kestra.io/hacktoberfest">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2026-FF8AE2?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
+</a>
+<a href="https://github.com/kestra-io/plugin-alibaba/pulls?q=is%3Apr+author%3Aatharvajagtap112+is%3Amerged">
+  <img src="https://img.shields.io/badge/PRs%20Merged-3-2EA043?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+
+**[Kestra](https://github.com/kestra-io/kestra)** · Alibaba Cloud plugin ([kestra-io/plugin-alibaba](https://github.com/kestra-io/plugin-alibaba))
+
+| Contribution | What it adds | PR |
+|:---|:---|:---:|
+| ⚡ **Function Compute** | `Invoke` task: sync & async function calls, response streamed to storage | [#6](https://github.com/kestra-io/plugin-alibaba/pull/6) ✅ |
+| 🖥️ **ECS** | `List`, `Start`, `Stop`, `Reboot` tasks for cloud instances | [#7](https://github.com/kestra-io/plugin-alibaba/pull/7) ✅ |
+| 📨 **Message Service (MNS)** | `Publish`, `Consume`, polling `Trigger` and `RealtimeTrigger` | [#8](https://github.com/kestra-io/plugin-alibaba/pull/8) ✅ |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
 
