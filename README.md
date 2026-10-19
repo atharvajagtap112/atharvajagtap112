@@ -2,9 +2,9 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=20+yo+Programming+Enthusiast+%F0%9F%A7%A0;Full-Stack+Java+Developer+%E2%98%95;Flutter+Developer+%F0%9F%A6%8B;Building+epic+stuff+since+day+1;From+India+with+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=20+yo+Programming+Enthusiast+%F0%9F%A7%A0;Full-Stack+Java+Developer+%E2%98%95;Flutter+Developer+%F0%9F%A6%8B;Building+epic+stuff+since+day+1;From+India+with+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/atharvajagtap112/atharvajagtap112/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -99,6 +99,10 @@ Turning complex challenges into elegant solutions
 
 **[Kestra](https://github.com/kestra-io/kestra)** · Alibaba Cloud plugin ([kestra-io/plugin-alibaba](https://github.com/kestra-io/plugin-alibaba))
 
+<a href="https://github.com/kestra-io/plugin-alibaba">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kestra-io&repo=plugin-alibaba&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
 | Contribution | What it adds | PR |
 |:---|:---|:---:|
 | ⚡ **Function Compute** | `Invoke` task: sync & async function calls, response streamed to storage | [#6](https://github.com/kestra-io/plugin-alibaba/pull/6) ✅ |
@@ -128,21 +132,7 @@ Turning complex challenges into elegant solutions
 
 ## 🏆 Achievement Unlocked
 
-<img src="https://user-images.githubusercontent.com/74038190/212284113-0a86afe8-4834-4ece-9031-95a5c5b5d4e5.gif" width="100">
-
-<img src="https://github-profile-trophy.vercel.app/?username=atharvajagtap112&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Heat Map
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
-
-[![Atharva's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atharvajagtap112&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-trophies.vercel.app/?username=atharvajagtap112&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7"/>
 
 </div>
 
@@ -151,8 +141,6 @@ Turning complex challenges into elegant solutions
 <div align="center">
 
 ## 🎯 Coding Activity & Metrics
-
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd0-a8c5-d6daff3a79c0.gif" width="100">
 
 <div align="center">
   
@@ -186,26 +174,22 @@ Turning complex challenges into elegant solutions
 
 ---
 
-
-
 <div align="center">
 
 ## 🔗 Let's Connect & Build Something Epic
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5f2b8.gif" width="100">
-
 <p align="center">
 <a href="https://linkedin.com/in/atharva-jagtap112">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animate=pulse" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/_heyatharva">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&animate=pulse" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.leetcode.com/_Heyatharva">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&animate=pulse" />
+<a href="https://leetcode.com/u/_Heyatharva/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" />
 </a>
 <a href="mailto:atharvacjagtap2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animate=pulse" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
@@ -216,8 +200,6 @@ Turning complex challenges into elegant solutions
 <div align="center">
 
 ### 💭 Daily Dose of Dev Wisdom
-
-<img src="https://user-images.githubusercontent.com/74038190/212284152-2f495a74-c8c0-46c9-b64c-20c7e8b1b894.gif" width="100">
 
 <div style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
@@ -235,8 +217,6 @@ Turning complex challenges into elegant solutions
 
 ### 📈 Profile Views & Visitors
 
-<img src="https://user-images.githubusercontent.com/74038190/212284107-09f99bd9-c6b5-4b5a-9b2f-c5e3288b6c1a.gif" width="100">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=atharvajagtap112&color=blueviolet&style=for-the-badge&label=Profile+Views)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=atharvajagtap112.atharvajagtap112&style=for-the-badge&color=00cf00)
 
@@ -249,26 +229,11 @@ Turning complex challenges into elegant solutions
 
 <div align="center">
 
-## 🎨 Fun Animations & Interactive Elements
-
-<img src="https://user-images.githubusercontent.com/74038190/212284149-d8d8c22f-5a34-4d8f-a7e7-b3b9c4effc3f.gif" width="400">
-
-
-</div>
-
----
-
-<div align="center">
-
 *⭐️ From [Atharva](https://github.com/atharvajagtap112) - 20 & coding the future* 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284126-96fb2767-c7e8-4b28-87c8-6a4b5c4e7b6b.gif" width="300">
 
 **"Full-stack by day, Flutter dev by night"** ✨
 
 ### 🚀 Always shipping, always learning, always building
-
-<div style="background: linear-gradient(90deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #feca57); height: 5px; border-radius: 10px; margin: 20px 0;"></div>
 
 **💡 "Code is poetry written in logic"** 
 **🎯 "Every bug is a new lesson in disguise"**
